@@ -1,4 +1,4 @@
-10_simple_rules_analysis
+XKCD style conference plots
 ========================
 
-Python scripts used to produce figures for "'Ten Simple Rules for Writing a PLOS Ten Simple Rules Article"
+
